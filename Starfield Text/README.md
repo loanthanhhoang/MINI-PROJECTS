@@ -6,7 +6,7 @@ I came across a tutorial by Dan Shiffman about drawing a starfield with Processi
 Youtube Instruction Link: https://www.youtube.com/watch?v=17WoOqgXsRM
 
 
-![](Screen%20Shot%202020-06-07%20at%202.03.50%20AM.png)
+![](StarField.png)
 
 
 
