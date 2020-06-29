@@ -4,15 +4,35 @@
 This is just a project for me to try out UX/UI Design. I want to design an interface for the elevator that can deliver information about the floor, the speed, and the status of the elevator. 
 
 ![](Elevator.png)
+
+
 ![](Elevator1&2.png)
+
+
 ![](Elevator3.png)
+
+
 ![](Elevator4.png)
+
+
 ![](Elevator5.png)
+
+
 ![](Elevator6.png)
+
+
 ![](Elevator7.png)
+
+
 ![](Elevator8.png)
+
+
 ![](Elevator9.png)
+
+
 ![](Elevator10.png)
+
+
 
 ### Favourite Design:
 My favorite idea is my number 10: the voice activation elevator. I like it because it very minimal and requires only 5 buttons. You give orders for the elevator by holding one button and say the floor number, stop, open, close, call, alarm.
