@@ -1,6 +1,6 @@
 
 ## Concepts:
-This is my project after two weeks of learning Arduino and Processing
+This is my project after two weeks learning Arduino and Processing
 
 I use the communications between Processing and Arduino to improve my piano. In this new version, when I play any note with Arduino, there will be note played on the laptop screen. 
 
@@ -34,6 +34,7 @@ I have organized the button direction suitable for the piano's hand position.
 Video: https://www.youtube.com/watch?v=0U2wVNKgt1Y
 
 ![](RealPiano.png)
+![](ArduinoPiano.png)
 
 Keyboard pressed when a note is played on Arduino: 
 
@@ -57,7 +58,7 @@ Black note played:
 
 
 
-Circuit is the same as before: 
+Circuit: 
 
 
 ![](104884724_3115256061853395_836413844354909050_n.jpg)
