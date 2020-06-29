@@ -1,4 +1,4 @@
- Generative Text
+ ### Generative Text
 
 I came across a tutorial by Dan Shiffman about drawing a starfield with Processing and I really liked it. However, I wanted to make it more "texty" by replacing the stars with my name first but I ended up making it a little more challenging by turning the stars into random chracter. 
 
