@@ -6,7 +6,7 @@ I came across a tutorial by Dan Shiffman about drawing a starfield with Processi
 Youtube Instruction Link: https://www.youtube.com/watch?v=17WoOqgXsRM
 
 
-![](StarField.png)
+![](StarfieldText.png)
 
 
 
